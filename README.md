@@ -13,7 +13,7 @@
 
 ## 📌 Featured Projects
 - [SpringChat](https://github.com/jayanthcse/SpringChat) - Real-time chat & video call app
-- [TodoList](https://github.com/jayanthcse/todolist) - Simple React-based task manager
+- [AIFinanceManager](https://github.com/jayanthcse/aiwelth) -AI powered Finance tracker 
 - [Codeforces Solutions](https://github.com/jayanthcse/Codeforces-Solutions)
 
 ---
