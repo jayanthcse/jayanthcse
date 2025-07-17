@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jayanth 👋
 
-<!--
-**jayanthcse/jayanthcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate developer with strong skills in **Java, Spring Boot, React, and DSA, MERN**.  
+💻 Currently contributing to open-source and building full-stack applications.  
+🎯 Preparing for high-impact software roles with a focus on backend and system design.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js
+- 💻 Backend: Java, Spring Boot, REST APIs, Express , FastAPI , Flask
+- 🛢️ Database: MySQL, MongoDB
+- 🔧 Tools: Git, GitHub, VS Code, IntelliJ
+- 📈 Competitive Programming: Codeforces, LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [SpringChat](https://github.com/jayanthcse/SpringChat) - Real-time chat & video call app
+- [TodoList](https://github.com/jayanthcse/todolist) - Simple React-based task manager
+- [Codeforces Solutions](https://github.com/jayanthcse/Codeforces-Solutions)
+
+---
+
+Let's connect!  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jayanthasuri)
