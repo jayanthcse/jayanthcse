@@ -13,7 +13,8 @@
 
 ## 📌 Featured Projects
 - [SpringChat](https://github.com/jayanthcse/SpringChat) - Real-time chat & video call app
-- [AIFinanceManager](https://github.com/jayanthcse/aiwelth) -AI powered Finance tracker 
+- [AIFinanceManager](https://github.com/jayanthcse/aiwelth) -AI powered Finance tracker
+- [Sentiment Analyzer](https://github.com/jayanthcse/Sentiment_Analysis) -SentimentAnalyzer for both CSV and texts
 - [Codeforces Solutions](https://github.com/jayanthcse/Codeforces-Solutions)
 
 ---
